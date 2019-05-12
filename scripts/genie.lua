@@ -15,6 +15,7 @@
 			"Debug"
 		}
 		location (_OPTIONS["to"])
+		platforms { "x32", "x64" }
 
 	project "genie"
 		targetname "genie"
